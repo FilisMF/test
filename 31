@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class ProgramName {
+    public static void main(String[] args) {
+        Scanner reader = new Scanner(System.in);
+        
+System.out.println("ieraksti skaitli");
+
+while (true) {
+    skatilis = Integer.parseInt(reader.nextLine());
+
+    if (skaitlis = - 1) {
+        break;  
+    }
+
+    System.out.println("");
+    if (age < 5) {
+        System.out.println("You are so young that you cannot know how to write!");
+    } else {  
+        System.out.println("You are so old that you cannot know how to use a computer!");
+    }
+
+    System.out.println("Thank you and see you later!");
+}
+
+System.out.println("Your age is " + age);
